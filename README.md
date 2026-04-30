@@ -1,2 +1,2 @@
 # Calculator-App
-This is my very first app using Python and Tkinter
+This is my very first school project using Python and Tkinter
